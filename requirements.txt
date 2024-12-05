@@ -107,4 +107,7 @@ windrose
 seaborn
 scipy
 scikit-learn
+xarray
+netCDF4
+h5netcdf
 
